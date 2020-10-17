@@ -8,10 +8,10 @@ var Obstaclegroup;
 var gameState = 0;
 
 function preload(){
-  manImage = loadImage("../Images/Stick man.png");
-  groundImage = loadImage("../Images/ground.jpg");
-  hurdleImage1 = loadImage("../Images/fire.png");
-  hurdleImage2 = loadImage("../Images/laser.png");
+  manImage = loadImage("Images/Stick man.png");
+  groundImage = loadImage("Images/ground.jpg");
+  hurdleImage1 = loadImage("Images/fire.png");
+  hurdleImage2 = loadImage("Images/laser.png");
 }
 
 function setup(){
